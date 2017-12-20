@@ -1,0 +1,1091 @@
+fileFormatVersion: 2
+guid: d191c6ff2dac70e4b92efad7bccb59c1
+timeCreated: 1499131778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle
+    100002: Ankle 1
+    100004: Ankle 2
+    100006: Ankle 3
+    100008: Ankle 4
+    100010: Ankle 5
+    100012: Ankle 6
+    100014: Ankle 7
+    100016: Ankle_Handle
+    100018: Ankle_Handle 1
+    100020: Ankle_Handle 2
+    100022: Ankle_Handle 3
+    100024: Ankle_Handle 4
+    100026: Ankle_Handle 5
+    100028: Ankle_Handle 6
+    100030: Ankle_Handle 7
+    100032: Ankle_IKHandle
+    100034: Ankle_IKHandle 1
+    100036: Ankle_IKHandle 2
+    100038: Ankle_IKHandle 3
+    100040: Ankle_IKHandle 4
+    100042: Ankle_IKHandle 5
+    100044: Ankle_IKHandle 6
+    100046: Ankle_IKHandle 7
+    100048: Butt
+    100050: ButtBone
+    100052: group
+    100054: group 1
+    100056: group 2
+    100058: group 3
+    100060: group 4
+    100062: group 5
+    100064: group 6
+    100066: group 7
+    100068: group1
+    100070: group1 1
+    100072: group1 2
+    100074: group1 3
+    100076: group1 4
+    100078: group1 5
+    100080: group1 6
+    100082: group1 7
+    100084: Head
+    100086: Hip
+    100088: Hip 1
+    100090: Hip 2
+    100092: Hip 3
+    100094: Hip 4
+    100096: Hip 5
+    100098: Hip 6
+    100100: Hip 7
+    100102: Knee
+    100104: Knee 1
+    100106: Knee 2
+    100108: Knee 3
+    100110: Knee 4
+    100112: Knee 5
+    100114: Knee 6
+    100116: Knee 7
+    100118: Left_Eye
+    100120: Leg
+    100122: Leg 1
+    100124: Leg 2
+    100126: Leg 3
+    100128: Leg 4
+    100130: Leg 5
+    100132: Leg 6
+    100134: Leg 7
+    100136: LEG_GROUP
+    100138: LEG_GROUP1
+    100140: LEG_GROUP2
+    100142: LEG_GROUP3
+    100144: LEG_GROUP4
+    100146: LEG_GROUP5
+    100148: LEG_GROUP6
+    100150: LEG_GROUP7
+    100152: Right_Eye
+    100154: //RootNode
+    100156: TailEnd
+    100158: Toe
+    100160: Toe 1
+    100162: Toe 2
+    100164: Toe 3
+    100166: Toe 4
+    100168: Toe 5
+    100170: Toe 6
+    100172: Toe 7
+    100174: Toe_Handle
+    100176: Toe_Handle 1
+    100178: Toe_Handle 2
+    100180: Toe_Handle 3
+    100182: Toe_Handle 4
+    100184: Toe_Handle 5
+    100186: Toe_Handle 6
+    100188: Toe_Handle 7
+    100190: ToeIKHandle
+    100192: ToeIKHandle 1
+    100194: ToeIKHandle 2
+    100196: ToeIKHandle 3
+    100198: ToeIKHandle 4
+    100200: ToeIKHandle 5
+    100202: ToeIKHandle 6
+    100204: ToeIKHandle 7
+    100206: Torso
+    100208: transform1
+    100210: transform1 1
+    100212: transform1 2
+    100214: transform1 3
+    100216: transform1 4
+    100218: transform1 5
+    100220: transform1 6
+    100222: transform1 7
+    400000: Ankle
+    400002: Ankle 1
+    400004: Ankle 2
+    400006: Ankle 3
+    400008: Ankle 4
+    400010: Ankle 5
+    400012: Ankle 6
+    400014: Ankle 7
+    400016: Ankle_Handle
+    400018: Ankle_Handle 1
+    400020: Ankle_Handle 2
+    400022: Ankle_Handle 3
+    400024: Ankle_Handle 4
+    400026: Ankle_Handle 5
+    400028: Ankle_Handle 6
+    400030: Ankle_Handle 7
+    400032: Ankle_IKHandle
+    400034: Ankle_IKHandle 1
+    400036: Ankle_IKHandle 2
+    400038: Ankle_IKHandle 3
+    400040: Ankle_IKHandle 4
+    400042: Ankle_IKHandle 5
+    400044: Ankle_IKHandle 6
+    400046: Ankle_IKHandle 7
+    400048: Butt
+    400050: ButtBone
+    400052: group
+    400054: group 1
+    400056: group 2
+    400058: group 3
+    400060: group 4
+    400062: group 5
+    400064: group 6
+    400066: group 7
+    400068: group1
+    400070: group1 1
+    400072: group1 2
+    400074: group1 3
+    400076: group1 4
+    400078: group1 5
+    400080: group1 6
+    400082: group1 7
+    400084: Head
+    400086: Hip
+    400088: Hip 1
+    400090: Hip 2
+    400092: Hip 3
+    400094: Hip 4
+    400096: Hip 5
+    400098: Hip 6
+    400100: Hip 7
+    400102: Knee
+    400104: Knee 1
+    400106: Knee 2
+    400108: Knee 3
+    400110: Knee 4
+    400112: Knee 5
+    400114: Knee 6
+    400116: Knee 7
+    400118: Left_Eye
+    400120: Leg
+    400122: Leg 1
+    400124: Leg 2
+    400126: Leg 3
+    400128: Leg 4
+    400130: Leg 5
+    400132: Leg 6
+    400134: Leg 7
+    400136: LEG_GROUP
+    400138: LEG_GROUP1
+    400140: LEG_GROUP2
+    400142: LEG_GROUP3
+    400144: LEG_GROUP4
+    400146: LEG_GROUP5
+    400148: LEG_GROUP6
+    400150: LEG_GROUP7
+    400152: Right_Eye
+    400154: //RootNode
+    400156: TailEnd
+    400158: Toe
+    400160: Toe 1
+    400162: Toe 2
+    400164: Toe 3
+    400166: Toe 4
+    400168: Toe 5
+    400170: Toe 6
+    400172: Toe 7
+    400174: Toe_Handle
+    400176: Toe_Handle 1
+    400178: Toe_Handle 2
+    400180: Toe_Handle 3
+    400182: Toe_Handle 4
+    400184: Toe_Handle 5
+    400186: Toe_Handle 6
+    400188: Toe_Handle 7
+    400190: ToeIKHandle
+    400192: ToeIKHandle 1
+    400194: ToeIKHandle 2
+    400196: ToeIKHandle 3
+    400198: ToeIKHandle 4
+    400200: ToeIKHandle 5
+    400202: ToeIKHandle 6
+    400204: ToeIKHandle 7
+    400206: Torso
+    400208: transform1
+    400210: transform1 1
+    400212: transform1 2
+    400214: transform1 3
+    400216: transform1 4
+    400218: transform1 5
+    400220: transform1 6
+    400222: transform1 7
+    2300000: Head
+    2300002: Left_Eye
+    2300004: Right_Eye
+    2300006: Torso
+    3300000: Head
+    3300002: Left_Eye
+    3300004: Right_Eye
+    3300006: Torso
+    4300000: Leg
+    4300002: Leg
+    4300004: Leg
+    4300006: Leg
+    4300008: Leg
+    4300010: Leg
+    4300012: Leg
+    4300014: Leg
+    4300016: Torso
+    4300018: Butt
+    4300020: Head
+    4300022: Left_Eye
+    4300024: Right_Eye
+    7400000: Default
+    7400002: Idle
+    7400004: Walking
+    9500000: //RootNode
+    13700000: Butt
+    13700002: Leg
+    13700004: Leg 1
+    13700006: Leg 2
+    13700008: Leg 3
+    13700010: Leg 4
+    13700012: Leg 5
+    13700014: Leg 6
+    13700016: Leg 7
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ButtBone
+        weight: 1
+      - path: ButtBone/TailEnd
+        weight: 1
+      - path: LEG_GROUP
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Ankle_IKHandle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Toe_Handle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Toe_Handle/ToeIKHandle
+        weight: 1
+      - path: LEG_GROUP/group
+        weight: 1
+      - path: LEG_GROUP/group1
+        weight: 1
+      - path: LEG_GROUP/Hip
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee/Ankle
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee/Ankle/Toe
+        weight: 1
+      - path: LEG_GROUP/Leg
+        weight: 1
+      - path: LEG_GROUP/Leg/transform1
+        weight: 1
+      - path: LEG_GROUP1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Ankle_IKHandle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Toe_Handle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Toe_Handle 1/ToeIKHandle 1
+        weight: 1
+      - path: LEG_GROUP1/group 1
+        weight: 1
+      - path: LEG_GROUP1/group1 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1/Ankle 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1/Ankle 1/Toe 1
+        weight: 1
+      - path: LEG_GROUP1/Leg 1
+        weight: 1
+      - path: LEG_GROUP1/Leg 1/transform1 1
+        weight: 1
+      - path: LEG_GROUP2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Ankle_IKHandle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Toe_Handle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Toe_Handle 2/ToeIKHandle 2
+        weight: 1
+      - path: LEG_GROUP2/group 2
+        weight: 1
+      - path: LEG_GROUP2/group1 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2/Ankle 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2/Ankle 2/Toe 2
+        weight: 1
+      - path: LEG_GROUP2/Leg 2
+        weight: 1
+      - path: LEG_GROUP2/Leg 2/transform1 2
+        weight: 1
+      - path: LEG_GROUP3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Ankle_IKHandle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Toe_Handle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Toe_Handle 3/ToeIKHandle 3
+        weight: 1
+      - path: LEG_GROUP3/group 3
+        weight: 1
+      - path: LEG_GROUP3/group1 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3/Ankle 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3/Ankle 3/Toe 3
+        weight: 1
+      - path: LEG_GROUP3/Leg 3
+        weight: 1
+      - path: LEG_GROUP3/Leg 3/transform1 3
+        weight: 1
+      - path: LEG_GROUP4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Ankle_IKHandle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Toe_Handle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Toe_Handle 4/ToeIKHandle 4
+        weight: 1
+      - path: LEG_GROUP4/group 4
+        weight: 1
+      - path: LEG_GROUP4/group1 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4/Ankle 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4/Ankle 4/Toe 4
+        weight: 1
+      - path: LEG_GROUP4/Leg 4
+        weight: 1
+      - path: LEG_GROUP4/Leg 4/transform1 4
+        weight: 1
+      - path: LEG_GROUP5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Ankle_IKHandle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Toe_Handle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Toe_Handle 5/ToeIKHandle 5
+        weight: 1
+      - path: LEG_GROUP5/group 5
+        weight: 1
+      - path: LEG_GROUP5/group1 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5/Ankle 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5/Ankle 5/Toe 5
+        weight: 1
+      - path: LEG_GROUP5/Leg 5
+        weight: 1
+      - path: LEG_GROUP5/Leg 5/transform1 5
+        weight: 1
+      - path: LEG_GROUP6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Ankle_IKHandle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Toe_Handle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Toe_Handle 6/ToeIKHandle 6
+        weight: 1
+      - path: LEG_GROUP6/group 6
+        weight: 1
+      - path: LEG_GROUP6/group1 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6/Ankle 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6/Ankle 6/Toe 6
+        weight: 1
+      - path: LEG_GROUP6/Leg 6
+        weight: 1
+      - path: LEG_GROUP6/Leg 6/transform1 6
+        weight: 1
+      - path: LEG_GROUP7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Ankle_IKHandle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Toe_Handle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Toe_Handle 7/ToeIKHandle 7
+        weight: 1
+      - path: LEG_GROUP7/group 7
+        weight: 1
+      - path: LEG_GROUP7/group1 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7/Ankle 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7/Ankle 7/Toe 7
+        weight: 1
+      - path: LEG_GROUP7/Leg 7
+        weight: 1
+      - path: LEG_GROUP7/Leg 7/transform1 7
+        weight: 1
+      - path: Torso
+        weight: 1
+      - path: Torso/Butt
+        weight: 1
+      - path: Torso/Head
+        weight: 1
+      - path: Torso/Head/Left_Eye
+        weight: 1
+      - path: Torso/Head/Right_Eye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ButtBone
+        weight: 1
+      - path: ButtBone/TailEnd
+        weight: 1
+      - path: LEG_GROUP
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Ankle_IKHandle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Toe_Handle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Toe_Handle/ToeIKHandle
+        weight: 1
+      - path: LEG_GROUP/group
+        weight: 1
+      - path: LEG_GROUP/group1
+        weight: 1
+      - path: LEG_GROUP/Hip
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee/Ankle
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee/Ankle/Toe
+        weight: 1
+      - path: LEG_GROUP/Leg
+        weight: 1
+      - path: LEG_GROUP/Leg/transform1
+        weight: 1
+      - path: LEG_GROUP1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Ankle_IKHandle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Toe_Handle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Toe_Handle 1/ToeIKHandle 1
+        weight: 1
+      - path: LEG_GROUP1/group 1
+        weight: 1
+      - path: LEG_GROUP1/group1 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1/Ankle 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1/Ankle 1/Toe 1
+        weight: 1
+      - path: LEG_GROUP1/Leg 1
+        weight: 1
+      - path: LEG_GROUP1/Leg 1/transform1 1
+        weight: 1
+      - path: LEG_GROUP2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Ankle_IKHandle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Toe_Handle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Toe_Handle 2/ToeIKHandle 2
+        weight: 1
+      - path: LEG_GROUP2/group 2
+        weight: 1
+      - path: LEG_GROUP2/group1 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2/Ankle 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2/Ankle 2/Toe 2
+        weight: 1
+      - path: LEG_GROUP2/Leg 2
+        weight: 1
+      - path: LEG_GROUP2/Leg 2/transform1 2
+        weight: 1
+      - path: LEG_GROUP3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Ankle_IKHandle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Toe_Handle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Toe_Handle 3/ToeIKHandle 3
+        weight: 1
+      - path: LEG_GROUP3/group 3
+        weight: 1
+      - path: LEG_GROUP3/group1 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3/Ankle 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3/Ankle 3/Toe 3
+        weight: 1
+      - path: LEG_GROUP3/Leg 3
+        weight: 1
+      - path: LEG_GROUP3/Leg 3/transform1 3
+        weight: 1
+      - path: LEG_GROUP4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Ankle_IKHandle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Toe_Handle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Toe_Handle 4/ToeIKHandle 4
+        weight: 1
+      - path: LEG_GROUP4/group 4
+        weight: 1
+      - path: LEG_GROUP4/group1 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4/Ankle 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4/Ankle 4/Toe 4
+        weight: 1
+      - path: LEG_GROUP4/Leg 4
+        weight: 1
+      - path: LEG_GROUP4/Leg 4/transform1 4
+        weight: 1
+      - path: LEG_GROUP5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Ankle_IKHandle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Toe_Handle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Toe_Handle 5/ToeIKHandle 5
+        weight: 1
+      - path: LEG_GROUP5/group 5
+        weight: 1
+      - path: LEG_GROUP5/group1 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5/Ankle 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5/Ankle 5/Toe 5
+        weight: 1
+      - path: LEG_GROUP5/Leg 5
+        weight: 1
+      - path: LEG_GROUP5/Leg 5/transform1 5
+        weight: 1
+      - path: LEG_GROUP6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Ankle_IKHandle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Toe_Handle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Toe_Handle 6/ToeIKHandle 6
+        weight: 1
+      - path: LEG_GROUP6/group 6
+        weight: 1
+      - path: LEG_GROUP6/group1 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6/Ankle 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6/Ankle 6/Toe 6
+        weight: 1
+      - path: LEG_GROUP6/Leg 6
+        weight: 1
+      - path: LEG_GROUP6/Leg 6/transform1 6
+        weight: 1
+      - path: LEG_GROUP7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Ankle_IKHandle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Toe_Handle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Toe_Handle 7/ToeIKHandle 7
+        weight: 1
+      - path: LEG_GROUP7/group 7
+        weight: 1
+      - path: LEG_GROUP7/group1 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7/Ankle 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7/Ankle 7/Toe 7
+        weight: 1
+      - path: LEG_GROUP7/Leg 7
+        weight: 1
+      - path: LEG_GROUP7/Leg 7/transform1 7
+        weight: 1
+      - path: Torso
+        weight: 1
+      - path: Torso/Butt
+        weight: 1
+      - path: Torso/Head
+        weight: 1
+      - path: Torso/Head/Left_Eye
+        weight: 1
+      - path: Torso/Head/Right_Eye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walking
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ButtBone
+        weight: 1
+      - path: ButtBone/TailEnd
+        weight: 1
+      - path: LEG_GROUP
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Ankle_IKHandle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Toe_Handle
+        weight: 1
+      - path: LEG_GROUP/Ankle_Handle/Toe_Handle/ToeIKHandle
+        weight: 1
+      - path: LEG_GROUP/group
+        weight: 1
+      - path: LEG_GROUP/group1
+        weight: 1
+      - path: LEG_GROUP/Hip
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee/Ankle
+        weight: 1
+      - path: LEG_GROUP/Hip/Knee/Ankle/Toe
+        weight: 1
+      - path: LEG_GROUP/Leg
+        weight: 1
+      - path: LEG_GROUP/Leg/transform1
+        weight: 1
+      - path: LEG_GROUP1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Ankle_IKHandle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Toe_Handle 1
+        weight: 1
+      - path: LEG_GROUP1/Ankle_Handle 1/Toe_Handle 1/ToeIKHandle 1
+        weight: 1
+      - path: LEG_GROUP1/group 1
+        weight: 1
+      - path: LEG_GROUP1/group1 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1/Ankle 1
+        weight: 1
+      - path: LEG_GROUP1/Hip 1/Knee 1/Ankle 1/Toe 1
+        weight: 1
+      - path: LEG_GROUP1/Leg 1
+        weight: 1
+      - path: LEG_GROUP1/Leg 1/transform1 1
+        weight: 1
+      - path: LEG_GROUP2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Ankle_IKHandle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Toe_Handle 2
+        weight: 1
+      - path: LEG_GROUP2/Ankle_Handle 2/Toe_Handle 2/ToeIKHandle 2
+        weight: 1
+      - path: LEG_GROUP2/group 2
+        weight: 1
+      - path: LEG_GROUP2/group1 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2/Ankle 2
+        weight: 1
+      - path: LEG_GROUP2/Hip 2/Knee 2/Ankle 2/Toe 2
+        weight: 1
+      - path: LEG_GROUP2/Leg 2
+        weight: 1
+      - path: LEG_GROUP2/Leg 2/transform1 2
+        weight: 1
+      - path: LEG_GROUP3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Ankle_IKHandle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Toe_Handle 3
+        weight: 1
+      - path: LEG_GROUP3/Ankle_Handle 3/Toe_Handle 3/ToeIKHandle 3
+        weight: 1
+      - path: LEG_GROUP3/group 3
+        weight: 1
+      - path: LEG_GROUP3/group1 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3/Ankle 3
+        weight: 1
+      - path: LEG_GROUP3/Hip 3/Knee 3/Ankle 3/Toe 3
+        weight: 1
+      - path: LEG_GROUP3/Leg 3
+        weight: 1
+      - path: LEG_GROUP3/Leg 3/transform1 3
+        weight: 1
+      - path: LEG_GROUP4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Ankle_IKHandle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Toe_Handle 4
+        weight: 1
+      - path: LEG_GROUP4/Ankle_Handle 4/Toe_Handle 4/ToeIKHandle 4
+        weight: 1
+      - path: LEG_GROUP4/group 4
+        weight: 1
+      - path: LEG_GROUP4/group1 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4/Ankle 4
+        weight: 1
+      - path: LEG_GROUP4/Hip 4/Knee 4/Ankle 4/Toe 4
+        weight: 1
+      - path: LEG_GROUP4/Leg 4
+        weight: 1
+      - path: LEG_GROUP4/Leg 4/transform1 4
+        weight: 1
+      - path: LEG_GROUP5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Ankle_IKHandle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Toe_Handle 5
+        weight: 1
+      - path: LEG_GROUP5/Ankle_Handle 5/Toe_Handle 5/ToeIKHandle 5
+        weight: 1
+      - path: LEG_GROUP5/group 5
+        weight: 1
+      - path: LEG_GROUP5/group1 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5/Ankle 5
+        weight: 1
+      - path: LEG_GROUP5/Hip 5/Knee 5/Ankle 5/Toe 5
+        weight: 1
+      - path: LEG_GROUP5/Leg 5
+        weight: 1
+      - path: LEG_GROUP5/Leg 5/transform1 5
+        weight: 1
+      - path: LEG_GROUP6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Ankle_IKHandle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Toe_Handle 6
+        weight: 1
+      - path: LEG_GROUP6/Ankle_Handle 6/Toe_Handle 6/ToeIKHandle 6
+        weight: 1
+      - path: LEG_GROUP6/group 6
+        weight: 1
+      - path: LEG_GROUP6/group1 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6/Ankle 6
+        weight: 1
+      - path: LEG_GROUP6/Hip 6/Knee 6/Ankle 6/Toe 6
+        weight: 1
+      - path: LEG_GROUP6/Leg 6
+        weight: 1
+      - path: LEG_GROUP6/Leg 6/transform1 6
+        weight: 1
+      - path: LEG_GROUP7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Ankle_IKHandle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Toe_Handle 7
+        weight: 1
+      - path: LEG_GROUP7/Ankle_Handle 7/Toe_Handle 7/ToeIKHandle 7
+        weight: 1
+      - path: LEG_GROUP7/group 7
+        weight: 1
+      - path: LEG_GROUP7/group1 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7/Ankle 7
+        weight: 1
+      - path: LEG_GROUP7/Hip 7/Knee 7/Ankle 7/Toe 7
+        weight: 1
+      - path: LEG_GROUP7/Leg 7
+        weight: 1
+      - path: LEG_GROUP7/Leg 7/transform1 7
+        weight: 1
+      - path: Torso
+        weight: 1
+      - path: Torso/Butt
+        weight: 1
+      - path: Torso/Head
+        weight: 1
+      - path: Torso/Head/Left_Eye
+        weight: 1
+      - path: Torso/Head/Right_Eye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
